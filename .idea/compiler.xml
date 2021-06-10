@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mylauncher" />
+        <module name="core-lookup" />
+        <module name="myRobot" />
+        <module name="action" />
+        <module name="timer-service" />
+        <module name="timer-service-impl-withdelegation" />
+        <module name="mywatch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="action" target="1.8" />
+      <module name="core-lookup" target="1.8" />
+      <module name="firsttp" target="1.8" />
+      <module name="mylauncher" target="1.8" />
+      <module name="myRobot" target="1.8" />
+      <module name="mywatch" target="1.8" />
+      <module name="timer-service" target="1.8" />
+      <module name="timer-service-impl-withdelegation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

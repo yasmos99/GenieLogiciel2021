@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/action/action.iml" filepath="$PROJECT_DIR$/action/action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-lookup/core-lookup.iml" filepath="$PROJECT_DIR$/core-lookup/core-lookup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firsttp.iml" filepath="$PROJECT_DIR$/firsttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myRobot/myRobot.iml" filepath="$PROJECT_DIR$/myRobot/myRobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylauncher/mylauncher.iml" filepath="$PROJECT_DIR$/mylauncher/mylauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mywatch/mywatch.iml" filepath="$PROJECT_DIR$/mywatch/mywatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timer-service/timer-service.iml" filepath="$PROJECT_DIR$/timer-service/timer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timer-service-impl-withdelegation/timer-service-impl-withdelegation.iml" filepath="$PROJECT_DIR$/timer-service-impl-withdelegation/timer-service-impl-withdelegation.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/action/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-lookup/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myRobot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mylauncher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mywatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/timer-service-impl-withdelegation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/timer-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
